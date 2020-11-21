@@ -229,6 +229,5 @@ HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-SUFFIX,tv.applemusic.com,Apple
 HOST-SUFFIX,weather.com,Apple
-HOST-SUFFIX,api.weather.com,Apple
 HOST-SUFFIX,ocsp.digicert.com,Apple
 HOST-SUFFIX,activation.crossutility.com,Apple
