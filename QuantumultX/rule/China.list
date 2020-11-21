@@ -329,7 +329,6 @@ HOST-SUFFIX,nuomi.com,China
 HOST-SUFFIX,nvidia.com,China
 HOST-SUFFIX,oecd-ilibrary.org,China
 HOST-SUFFIX,okokbo.com,China
-HOST-SUFFIX,ooklaserver.net,China
 HOST-SUFFIX,open.cd,China
 HOST-SUFFIX,oracle.com,China
 HOST-SUFFIX,osapublishing.org,China
@@ -519,10 +518,7 @@ HOST-SUFFIX,zmz2019.com,China
 HOST-SUFFIX,zmzapi.com,China
 HOST-SUFFIX,zmzapi.net,China
 HOST-SUFFIX,zmzfile.com,China
-HOST-KEYWORD,apple.com.akadns.net,China
 HOST-KEYWORD,beplay,China
-HOST-KEYWORD,icloud.com.akadns.net,China
-HOST-KEYWORD,speedtest,China
 USER-AGENT,%e4%bc%81%e4%b8%9a%e5%be%ae%e4%bf%a1*,China
 USER-AGENT,%e4%bc%98%e9%85%b7*,China
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,China
