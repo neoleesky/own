@@ -212,3 +212,13 @@ USER-AGENT,com.apple.news*,Apple
 HOST,np-edge.itunes.apple.com,Apple
 HOST,play-edge.itunes.apple.com,Apple
 HOST-SUFFIX,tv.apple.com,Apple
+
+# NAME: TestFlight
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATE: 2020-11-19 17:35:18
+# HOST: 2
+# HOST-KEYWORD: 1
+# TOTAL: 3
+HOST,beta.apple.com,Apple
+HOST,testflight.apple.com,Apple
+HOST-KEYWORD,testflight,Apple
