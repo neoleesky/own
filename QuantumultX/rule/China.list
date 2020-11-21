@@ -455,7 +455,6 @@ HOST-SUFFIX,vmware.com,China
 HOST-SUFFIX,wandoujia.com,China
 HOST-SUFFIX,wangsu.com,China
 HOST-SUFFIX,weather.bjango.com,China
-HOST-SUFFIX,weather.com,China
 HOST-SUFFIX,webofknowledge.com,China
 HOST-SUFFIX,webqxs.com,China
 HOST-SUFFIX,wechat.com,China
@@ -522,7 +521,6 @@ USER-AGENT,%e4%bc%98%e9%85%b7*,China
 USER-AGENT,%e7%bd%91%e6%98%93%e4%ba%91%e9%9f%b3%e4%b9%90*,China
 USER-AGENT,hearthstone*,China
 USER-AGENT,micromessenger%20client,China
-USER-AGENT,neteasemusic*,China
 USER-AGENT,remoteplay*,China
 USER-AGENT,wechat*,China
 USER-AGENT,yyets*,China
