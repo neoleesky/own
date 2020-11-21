@@ -222,3 +222,8 @@ HOST-SUFFIX,tv.apple.com,Apple
 HOST,beta.apple.com,Apple
 HOST,testflight.apple.com,Apple
 HOST-KEYWORD,testflight,Apple
+
+
+
+HOST-KEYWORD,icloud.com.akadns.net,Apple
+HOST-KEYWORD,apple.com.akadns.net,Apple
