@@ -235,5 +235,6 @@ HOST-SUFFIX,a.tiles.mapbox.com,Apple
 HOST-SUFFIX,b.tiles.mapbox.com,Apple
 HOST-SUFFIX,c.tiles.mapbox.com,Apple
 HOST-SUFFIX,d.tiles.mapbox.com,Apple
+HOST-SUFFIX,mapbox.com,Apple
 HOST-SUFFIX,ocsp.digicert.com,Apple
 HOST-SUFFIX,activation.crossutility.com,Apple
