@@ -4,7 +4,7 @@
 qx: 
 ^https:\/\/sk\.ulysses\.app\/api\/v1\/user_offers$ url request-header (\r\n)If-None-Match:.+(\r\n) request-header $1 
 
-^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body ulysses.js
+^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/invalid/ulysses.js
 */
 
 //mitm: sk.ulysses.app
