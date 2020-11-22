@@ -1,6 +1,5 @@
 /*
 国区/美区wps
-
 [MITM]
 hostname = account.wps.cn,account.wps.com
 
