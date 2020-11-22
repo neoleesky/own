@@ -1,0 +1,56 @@
+# 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
+
+hostname = subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com, baimiao.uzero.cn
+
+# productive Unblock
+^https:\/\/subs\.platforms\.team\/.+\/apple\/verify$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/productive.js
+
+#gyroscope记录健康数据全英文app
+^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/Gyroscope.vip.js
+
+#蜗牛睡眠 全功能解锁VIP&付费音乐
+^https:\/\/(snailsleep\.net\/|(music|community)\.snailsleep\.net\/)(snail\/v1\/profile\/get|snail-music\/music\/(sleeping|meditation)\/single\/list) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/wnsm.js
+
+#大象冥想 解锁VIP&付费音乐
+^https?:\/\/nmeditation\.snailsleep\.net\/meditation-(audio|user|order|audio)\/(api|user)\/(audio\/master\/detail|get\/info|order/user\/vip\/info|ad\/get) url script-response-body https://raw.githubusercontent.com/photonmang/quantumultX/master/dxmx.js
+
+#VSCO
+^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js
+
+#知音漫客
+^https://getuserinfo-globalapi.zymk.cn/app_api/v5/(getuserinfo|coin_account|getuserinfo_ticket|getcomicinfo)/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js
+
+#picsart美易
+^https:\/\/api\.(picsart|meiease)\.c(n|om)\/users\/show\/me\.json url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/PicsArt.js
+
+#weibo去广告
+^https?://m?api.weibo.c(n|om)/2/(statuses/(unread|extend|positives/get|(friends|video)(/|_)(mix)?timeline)|stories/(video_stream|home_list)|(groups|fangle)/timeline|profile/statuses|comments/build_comments|photo/recommend_list|service/picfeed|searchall|cardlist|page|!/photos/pic_recommend_status|video/tiny_stream_video_list|photo/info) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js
+
+# 幕布 @ZhiYi-N
+https:\/\/api2\.mubu\.com\/v3\/api\/user\/current_user url script-response-body https://raw.githubusercontent.com/ZhiYi-N/Loon/master/mb.js
+
+# bear熊掌记 @Miao Miao
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/bear.js
+
+# noto笔记 @Alex0510
+https://api.revenuecat.com/v1/subscribers url script-response-body https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/noto.js
+
+# it之家去广告  @toulanboy
+https:\/\/api\.ithome\.com\/json\/newslist\/news url script-response-body https://raw.githubusercontent.com/toulanboy/scripts/master/ithome_ad/ithome_ad.js
+
+#在微信中打开淘宝等被屏蔽链接，点击 Surge/QuantumultX 通知跳转到 Safari 或淘宝 App @HotKids & @XIAO_KOP,修改自 @江湖中人
+^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi url script-response-body https://raw.githubusercontent.com/HotKids/Rules/master/Script/weixin110.js
+
+# 小小影视 photonmang (*.xxjjappss.com,*.huaerdadi.com)
+https:\/\/.*\..*\.com\/(ssp-svr\/ssp\/list3|ucp/index|getGlobalData) url script-response-body https://raw.githubusercontent.com/photonmang/quantumultX/master/xxys.js
+
+#扫描全能王CamScanner
+^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js
+
+#网易蜗牛读书解锁会员
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js
+
+#白描解锁黄金vip
+^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/sirsunknight/QuantumultX/master/Scripts/Baimiao.js
+
+
