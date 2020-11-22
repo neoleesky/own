@@ -4,7 +4,7 @@ hostname = sk.ulysses.app, subs.platforms.team, api.gyrosco.pe, snailsleep.net, 
 
 #ulysses
 ^https:\/\/sk\.ulysses\.app\/api\/v1\/user_offers$ url request-header (\r\n)If-None-Match:.+(\r\n) request-header $1 
-^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/ulysses.js
+^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/ulysses.js
 
 
 #Productive Unlocks by Cuttlefish 公众号：墨鱼手记
