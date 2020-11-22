@@ -1,6 +1,6 @@
 /*
 #Pdfexpert
-^https:\/\/license\.pdfexpert\.com\/api\/1\.0\/pdfexpert6\/subscription\/(refresh$|check$) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/Pdfexpert.vip.js
+^https:\/\/license\.pdfexpert\.com\/api\/1\.0\/pdfexpert6\/subscription\/(refresh$|check$) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/invalid/Pdfexpert.vip.js
 hostname = license.pdfexpert.com,
 */
 var obj= {
