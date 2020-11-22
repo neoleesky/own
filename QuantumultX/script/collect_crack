@@ -1,6 +1,11 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
 
-hostname = subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com, baimiao.uzero.cn
+hostname = sk.ulysses.app, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com, baimiao.uzero.cn
+
+#ulysses
+^https:\/\/sk\.ulysses\.app\/api\/v1\/user_offers$ url request-header (\r\n)If-None-Match:.+(\r\n) request-header $1 
+^https:\/\/sk\.ulysses\.app\/api\/v1\/itunes_receipt_verify$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/ulysses.js
+
 
 #Productive Unlocks by Cuttlefish 公众号：墨鱼手记
 ^https:\/\/subs\.platforms\.team\/.+\/apple\/verify$ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/productive.js
