@@ -6,6 +6,7 @@ https?:\/\/.*\.xmind\..*\/_res\/devices url script-response-body XMind.js
 [mitm]
 hostname = *.xmind.*,
 */
+
 let obj = JSON.parse($response.body);
 
 obj = {
