@@ -5,7 +5,7 @@ Quantumult X 脚本:
 
 [rewrite_local]
 # Xunjie Unlock annual subscriptions （by LTribe）
-^https?:\/\/.*\.xunjie.*\.com\/api\/v\d\/* url script-response-body xunjie.js
+^https?:\/\/.*\.xunjie.*\.com\/api\/v\d\/* url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/xunjie.js
 
 [mitm]
 hostname = *.xunjie*.com,
