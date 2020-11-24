@@ -224,7 +224,7 @@ HOST,testflight.apple.com,Apple
 HOST-KEYWORD,testflight,Apple
 
 
-
+#使用时产生的一些链接，先扔到这里
 HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-SUFFIX,tv.applemusic.com,Apple
