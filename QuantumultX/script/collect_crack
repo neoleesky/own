@@ -1,7 +1,9 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
 
-hostname = subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
+hostname = *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
 
+# 迅捷应用6合1 （by LTribe）
+^https?:\/\/.*\.xunjie.*\.com\/api\/v\d\/* url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/xunjie.js
 
 #Productive Unlocks by Cuttlefish 公众号：墨鱼手记
 ^https:\/\/subs\.platforms\.team\/.+\/apple\/verify$ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/productive.js
