@@ -4,6 +4,7 @@ surge
 noto.js = type=http-response,pattern=https://api.revenuecat.com/v1/subscribers,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/noto.js,script-update-interval=0
 quanx
 https://api.revenuecat.com/v1/subscribers url script-response-body https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/noto.js
+
 hostname：api.revenuecat.com
 */
 
