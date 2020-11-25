@@ -2,7 +2,7 @@
 #camera360
 ^https:\/\/bmall\.camera360\.com\/api\/(iap\/check-receipt$|mix\/getinfo$) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/camera360.vip.js
 
- bmall.camera360.com,
+bmall.camera360.com,
  */
  var obj = JSON.parse($response.body);
 obj=
