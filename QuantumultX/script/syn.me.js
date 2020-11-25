@@ -1,4 +1,5 @@
 /*
+
 #sync(通讯录备份）
 ^https:\/\/api\.sync\.me\/api\/purchases\/(report_purchases|get_purchases)  url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/syn.me.js
 
