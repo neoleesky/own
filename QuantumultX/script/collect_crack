@@ -1,8 +1,11 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
 
-hostname = origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
+hostname = api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
 
-# Jibjab
+#sync
+^https:\/\/api\.sync\.me\/api\/purchases\/(report_purchases|get_purchases)  url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/syn.me.js
+
+# Jibjab(funny ecards,videos&gifs)
 ^https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/jibjab.vip.js
 
 #Memrise学习外语（不包括英语）
