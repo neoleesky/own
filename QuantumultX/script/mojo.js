@@ -1,5 +1,5 @@
 /*
-#mojo&noto
+#mojo
 #^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/revenuecat.js
 api.revenuecat.com, 
 */
