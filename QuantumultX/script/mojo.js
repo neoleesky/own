@@ -1,6 +1,6 @@
 /*
 #mojo
-#^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/revenuecat.js
+#^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/mojo.js
 api.revenuecat.com, 
 */
 let obj["subscriber"]["entitlements"]= {
