@@ -2,8 +2,9 @@
 
 hostname = api.getmimo.com, apimboom2.globaldelight.net, api.calm.com, www.calm.com, accounts.elevateapp.net, api.busuu.com, api.mondlylanguages.com, lambda.us-east-1.amazonaws.com, api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
 
-#mojo&noto
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/revenuecat.js
+#mojo
+#^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[a-zA-Z0-9_-]*$) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/mojo.js
+
 #mimo
 ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/mimo.vip.js
 
