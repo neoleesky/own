@@ -1,0 +1,12 @@
+HOST,hboasia1-i.akamaihd.net,Global
+HOST,hboasia2-i.akamaihd.net,Global
+HOST,hboasia3-i.akamaihd.net,Global
+HOST,hboasia4-i.akamaihd.net,Global
+HOST,hboasia5-i.akamaihd.net,Global
+HOST-SUFFIX,hbo.com,Global
+HOST-SUFFIX,hbogo.com,Global
+HOST-SUFFIX,hbogoasia.com,Global
+HOST-SUFFIX,hbogoasia.hk,Global
+HOST-SUFFIX,hbonow.com,Global
+USER-AGENT,hbo%20go%20prod%20hkg*,Global
+USER-AGENT,hbo%20now*,Global
