@@ -46,5 +46,8 @@ host, 7at24wro.mi-msg.com, Amazon
 host, msh.amazon.com, Amazon
 host, music.amazon.com, Amazon
 host, music-xray-service.amazon.com, Amazon
+host, d37b6sgey2y8gt.cloudfront.net, Amazon
+host, arcus-uswest.amazon.com, Amazon
+host, na.explore.skill.music.a2z.com, Amazon
 
 
