@@ -1,5 +1,6 @@
 # NAME:Amazon
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/rule/Amazon.list
+#由Global和GlobalMedia筛选出来，后续手动添加
 
 
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Amazon
