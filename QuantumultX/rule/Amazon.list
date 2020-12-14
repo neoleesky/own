@@ -42,5 +42,9 @@ host, api.amazon.com, Amazon
 host, msh.amazon.co.uk, Amazon
 host, det-ta-g7g.amazon.com, Amazon
 host, device-metrics-us.amazon.com, Amazon
+host, 7at24wro.mi-msg.com, Amazon
+host, msh.amazon.com, Amazon
+host, music.amazon.com, Amazon
+host, music-xray-service.amazon.com, Amazon
 
 
