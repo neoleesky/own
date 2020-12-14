@@ -1,12 +1,6 @@
 # NAME: Global
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:18
-# HOST-SUFFIX: 689
-# HOST-KEYWORD: 19
-# IP-CIDR: 29
-# USER-AGENT: 38
-# HOST: 47
-# TOTAL: 822
+
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
 HOST,abematv.akamaized.net,Global
@@ -22,11 +16,6 @@ HOST,ds-linear-abematv.akamaized.net,Global
 HOST,ds-vod-abematv.akamaized.net,Global
 HOST,edge.api.brightcove.com,Global
 HOST,hamifans.emome.net,Global
-HOST,hboasia1-i.akamaihd.net,Global
-HOST,hboasia2-i.akamaihd.net,Global
-HOST,hboasia3-i.akamaihd.net,Global
-HOST,hboasia4-i.akamaihd.net,Global
-HOST,hboasia5-i.akamaihd.net,Global
 HOST,itvpnpmobile-a.akamaihd.net,Global
 HOST,kktv-theater.kk.stream,Global
 HOST,linear-abematv.akamaized.net,Global
@@ -300,11 +289,6 @@ HOST-SUFFIX,gwtproject.org,Global
 HOST-SUFFIX,happyon.jp,Global
 HOST-SUFFIX,hayabusa.io,Global
 HOST-SUFFIX,hbg.com,Global
-HOST-SUFFIX,hbo.com,Global
-HOST-SUFFIX,hbogo.com,Global
-HOST-SUFFIX,hbogoasia.com,Global
-HOST-SUFFIX,hbogoasia.hk,Global
-HOST-SUFFIX,hbonow.com,Global
 HOST-SUFFIX,here.com,Global
 HOST-SUFFIX,heroku.com,Global
 HOST-SUFFIX,hightail.com,Global
@@ -699,8 +683,6 @@ USER-AGENT,dazn*,Global
 USER-AGENT,deezer*,Global
 USER-AGENT,encoretvb*,Global
 USER-AGENT,fox%20now*,Global
-USER-AGENT,hbo%20go%20prod%20hkg*,Global
-USER-AGENT,hbo%20now*,Global
 USER-AGENT,hwtvmobile*,Global
 USER-AGENT,instantvideo.us*,Global
 USER-AGENT,itv_player*,Global
