@@ -22,5 +22,15 @@ HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,Amazon
 HOST-SUFFIX,media-amazon.com,Amazon
 HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,Amazon
 HOST-SUFFIX,tidal-cms.s3.amazonaws.com,Amazon
+
 HOST-SUFFIX,primevideo.com,Amazon
 USER-AGENT,prime%20video*,Amazon
+user-agent, InstantVideo.US*, Amazon
+host-suffix, aiv-cdn.net, Amazon
+host-suffix, aiv-delivery.net, Amazon
+host, avodmp4s3ww-a.akamaihd.net, Amazon
+host, d25xi40x97liuc.cloudfront.net, Amazon
+host, dmqdd6hw24ucf.cloudfront.net, Amazon
+host, d22qjgkvxw22r6.cloudfront.net, Amazon
+host, d1v5ir2lpwr8os.cloudfront.net, Amazon
+host-keyword, avoddashs, Amazon
