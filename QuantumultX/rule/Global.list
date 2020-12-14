@@ -7,7 +7,6 @@
 # USER-AGENT: 38
 # HOST: 47
 # TOTAL: 822
-HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
 HOST,abematv.akamaized.net,Global
@@ -34,11 +33,7 @@ HOST,linear-abematv.akamaized.net,Global
 HOST,litvfreemobile-hichannel.cdn.hinet.net,Global
 HOST,ocsp.int-x3.letsencrypt.org,Global
 HOST,oneclient.sfx.ms,Global
-HOST,payments-jp.amazon.com,Global
 HOST,players.brightcove.net,Global
-HOST,s3-ap-northeast-1.amazonaws.com,Global
-HOST,s3-ap-southeast-1.amazonaws.com,Global
-HOST,s3-ap-southeast-2.amazonaws.com,Global
 HOST,search.avira.com,Global
 HOST,store.steampowered.com,Global
 HOST,us.weibo.com,Global
@@ -64,8 +59,6 @@ HOST-SUFFIX,advertisercommunity.com,Global
 HOST-SUFFIX,aiv-cdn.net,Global
 HOST-SUFFIX,aiv-delivery.net,Global
 HOST-SUFFIX,allconnected.co,Global
-HOST-SUFFIX,amazon.co.jp,Global
-HOST-SUFFIX,amazonvideo.com,Global
 HOST-SUFFIX,ameba.jp,Global
 HOST-SUFFIX,ampproject.org,Global
 HOST-SUFFIX,android.com,Global
@@ -493,7 +486,6 @@ HOST-SUFFIX,pornhub.com,Global
 HOST-SUFFIX,pornhubpremium.com,Global
 HOST-SUFFIX,potato.im,Global
 HOST-SUFFIX,potatso.com,Global
-HOST-SUFFIX,primevideo.com,Global
 HOST-SUFFIX,prism-break.org,Global
 HOST-SUFFIX,proxifier.com,Global
 HOST-SUFFIX,pscp.tv,Global
@@ -527,7 +519,6 @@ HOST-SUFFIX,rixcloud.com,Global
 HOST-SUFFIX,roadshow.hk,Global
 HOST-SUFFIX,rocksdb.org,Global
 HOST-SUFFIX,rsshub.app,Global
-HOST-SUFFIX,s3.amazonaws.com,Global
 HOST-SUFFIX,scmp.com,Global
 HOST-SUFFIX,scribd.com,Global
 HOST-SUFFIX,seatguru.com,Global
@@ -721,7 +712,6 @@ USER-AGENT,mytv*,Global
 USER-AGENT,niconico*,Global
 USER-AGENT,pandora*,Global
 USER-AGENT,pbs*,Global
-USER-AGENT,prime%20video*,Global
 USER-AGENT,roam*,Global
 USER-AGENT,soundcloud*,Global
 USER-AGENT,taiwangood*,Global
