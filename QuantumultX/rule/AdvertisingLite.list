@@ -227,7 +227,6 @@ host-suffix, okjhb.xyz, AdBlock
 host-suffix, openx.net, AdBlock
 host-suffix, outbrain.com, AdBlock
 host-suffix, pubmatic.com, AdBlock
-host-suffix, qchannel01.cn, AdBlock
 host-suffix, rayjump.com, AdBlock
 host-suffix, rtbasia.com, AdBlock
 host-suffix, rubiconproject.com, AdBlock
@@ -369,7 +368,6 @@ host-suffix, deliver.ifeng.com, AdBlock
 host, api.newad.ifeng.com, AdBlock
 host, ifengad.3g.ifeng.com, AdBlock
 # > iQiyi
-host, t7z.cupid.iqiyi.com, AdBlock
 ip-cidr, 101.227.97.240/32, AdBlock
 ip-cidr, 101.227.200.11/32, AdBlock
 ip-cidr, 101.227.200.28/32, AdBlock
