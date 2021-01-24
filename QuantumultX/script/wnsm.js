@@ -1,7 +1,6 @@
 /*
 #蜗牛睡眠 全功能解锁VIP&付费音乐
 ^https:\/\/(snailsleep\.net\/|(music|community)\.snailsleep\.net\/)(snail\/v1\/profile\/get|snail-music\/music\/(sleeping|meditation)\/single\/list) url script-response-body wnsm1.js
-
 MITM = snailsleep.net,music.snailsleep.net,community.snailsleep.net
 */
 
