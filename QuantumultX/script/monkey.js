@@ -2,6 +2,7 @@
 #all apps monkey
 ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/monkey.js
 
+
 www.api.monkeyuni.net, 
 */
 var obj = JSON.parse($response.body);
