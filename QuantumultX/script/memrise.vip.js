@@ -3,6 +3,7 @@
 ^https:\/\/api\.memrise\.com\/.+\/(me\/$|dashboard\/$|leaderboards\/following\/) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/memrise.vip.js
 
 api.meiease.c*, api.memrise.com, 
+
 */
 let obj = JSON.parse($response.body);
 let url = $request.url;
