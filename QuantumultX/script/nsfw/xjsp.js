@@ -1,7 +1,6 @@
 /*
 Banana video unlock vip
 app download link : http://tinyurl.com/y57j6hjg
-
 QX 1.0.0:
 ^https?:\/\/.*\.(fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js
 
