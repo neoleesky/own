@@ -4,6 +4,7 @@
 
 graph.nhaccuatui.com,
 */
+
 var obj = JSON.parse($response.body);
 let url = $request.url;
 var cons = "users/info";
