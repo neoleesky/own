@@ -1,9 +1,9 @@
 # 您可以在使用后手动将本模块禁用，以免产生不必要的MITM
 
-hostname = menscoach-api.asqq.io, www.api.monkeyuni.net, dayone.me, api.overhq.com, api.pushover.net, api-kinemaster-assetstore.*, api.sololearn.com, api.lingokids.com, api.getmimo.com, apimboom2.globaldelight.net, api.calm.com, www.calm.com, accounts.elevateapp.net, api.busuu.com, api.mondlylanguages.com, lambda.us-east-1.amazonaws.com, api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
+hostname = planner5d.com, www.api.monkeyuni.net, dayone.me, api.overhq.com, api.pushover.net, api-kinemaster-assetstore.*, api.sololearn.com, api.lingokids.com, api.getmimo.com, apimboom2.globaldelight.net, api.calm.com, www.calm.com, accounts.elevateapp.net, api.busuu.com, api.mondlylanguages.com, lambda.us-east-1.amazonaws.com, api.sync.me, origin-prod-phoenix.jibjab.com, api.meiease.c*, api.memrise.com, lcs-mobile-cops.adobe.io, engbright.com, photos.adobe.io, backend.getdrafts.com, apic.musixmatch.com, api.textnow.me, *.xunjie*.com, subs.platforms.team, api.gyrosco.pe, snailsleep.net, music.snailsleep.net, community.snailsleep.net, nmeditation.snailsleep.net, vsco.co, getuserinfo-globalapi.zymk.cn, api.picsart.c*, api.meiease.c*, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, api2.mubu.com, buy.itunes.apple.com, api.revenuecat.com, api.ithome.com, weixin110.qq.com, mp.weixin.qq.com, *.xxjjappss.com, *.huaerdadi.com, ap*.intsig.net, newdrugs.dxy.cn, p.du.163.com
 
-#Muscle Booster
-^https:\/\/menscoach-api\.asqq\.io\/prod\/user$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/MuscleBooster.js
+#planner5d
+^https:\/\/planner5d\.com\/api\/sets url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/planner5d.js
 
 #all apps monkey
 ^https:\/\/www\.api\.monkeyuni\.net\/api\/.+\/mobile\/account\/load-update url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/monkey.js
