@@ -4,6 +4,7 @@
 
 apic.musixmatch.com
 */
+
 let obj=JSON.parse($response.body);
 let usr=obj.message.body;
 usr.app_config.trial=false;
