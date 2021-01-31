@@ -3,6 +3,9 @@ Unlocks by Cuttlefish 公众号：墨鱼手记
 # > 043 森茂雅苑 微信小程序解锁隐藏内容 去除广告直接查看内容（20201027）
 https://d.smkj33.top/wp-json/wp/v2/posts/* url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xcx.js
 mitm=d.smkj33.top,
+# > 038 纸塘壁纸 微信小程序 免广告直接下载原图壁纸（20201006）Attention：登录使用⭐️
+https://api.bspapp.com/client url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/ztbz.js
+api.bspapp.com, 
 # > 030 老胡工具箱 微信小程序解除隐藏内容 （20200916）
 https://d.syshhc.top/wp-json/wp/v2/* url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/xcx.js
 d.syshhc.top, 
