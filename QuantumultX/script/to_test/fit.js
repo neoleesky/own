@@ -3,7 +3,7 @@ QX:
 [rewrite_local]
 
 #Fit健身会员 （by黑黑酱）
-^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo url script-response-body fit.js
+^https:\/\/bea\.sportq\.com\/SFitWeb\/sfit\/getUserBaseInfo url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/to_test/fit.js
 
 [MITM]
 hostname:bea.sportq.com
