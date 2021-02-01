@@ -11,13 +11,8 @@
 # > 061 萌猪记账 Pro（20210106）
 # > 060 Scanner Pro 解锁会员权限 一次性解锁勿卸载（20201219）
 # > 059 扎比科技资源箱 微信小程序crack 弹框显示最新三天download地址（20201214）
-# > 058 圈子记账 你的记账小工具（20201214）
 # > 057 AppleAndroid 微信小程序破解 弹框显示内容（20201214）
-# > 056 emmo 解锁会员（20201209）
 # > 055 用电助手 炫酷充电更好了解电池（20201206）
-# > 054 美图秀秀 你笑的真好看（20201124）
 # > 053 美颜相机 解锁内购（20201123）⭐️Need Old Version：V9.6.20 ID：839250957
 # > 052 每日艺术 解锁vip权限（20201123）
-# > 031 西窗烛 解锁终身会员 文艺范的福音（20200924）Attention：登录使用
 # > 001 最新版keep（20200819）小程序解除隐藏内容
-^https:\/\/api\.gotokeep\.com\/* url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/keep.js
