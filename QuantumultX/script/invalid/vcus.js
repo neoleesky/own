@@ -3,7 +3,7 @@ Quantumult X 脚本:
 Unlocks 公众号：墨鱼手记
 [rewrite_local]
 #Unlocks
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/receipt.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/invalid/vcus.js
 [mitm]
 hostname = buy.itunes.apple.com,
 */
