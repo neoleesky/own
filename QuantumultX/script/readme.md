@@ -29,7 +29,7 @@
 
 #酷我换肤(已经有的皮肤需要先从本地皮肤删除再换 By@ s y)
 
-# 115离线 (请仔细阅读脚本内使用说明 By ikanam)
+#115离线 (请仔细阅读脚本内使用说明 By ikanam)
 
 #lake
 
@@ -55,24 +55,24 @@
 
 #中国体育直播unlock (By 军哥哥)
 
-# 有道云笔记VIP (ByAlex0510)
+#有道云笔记VIP (ByAlex0510)
 
 #Peak 解锁Pro
 
-# IT之家 去新闻列表广告
+#IT之家 去新闻列表广告
 
-# 万里影视 （by LTribe）
+#万里影视 （by LTribe）
 
-# 韩剧TV (By 凉意)
+#韩剧TV (By 凉意)
 
-# 筋斗云tv (By 凉意)
+#筋斗云tv (By 凉意)
 
-# 花椒视频 (By Alex0510)
+#花椒视频 (By Alex0510)
 
-# 飒漫画 (By @u18888)
+#飒漫画 (By @u18888)
 
-# 闪电下载vip (By 凉意)
+#闪电下载vip (By 凉意)
 
-# JAV101无限观看 (By 凉意)
+#JAV101无限观看 (By 凉意)
 
-# 油猴转换器 (by Peng-YM)
+#油猴转换器 (by Peng-YM)
