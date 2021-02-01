@@ -8,7 +8,6 @@
 # 电报水友交流群（资源同步）@sngxpro
 # 电报私聊 @shaogebot
 
-
 圈X：
 https:\/\/api1000\.cvxia\.com\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
 
