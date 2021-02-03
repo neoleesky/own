@@ -2,7 +2,7 @@
 # js文件备份在unlock内
 # 
 #
-#   to test
+#   已整理app
 #
 
 #Prisma解锁订阅@ioshkj007
@@ -61,7 +61,7 @@
 
 #lingokids
 
-# Pillow (By @CheeryTodo)
+#Pillow (By @CheeryTodo)
 
 #mimo
 
@@ -79,7 +79,7 @@
 
 #sync(通讯录备份）
 
-# Jibjab(funny ecards,videos&gifs)
+#Jibjab(funny ecards,videos&gifs)
 
 #Memrise学习外语（不包括英语）
 
@@ -95,7 +95,7 @@
 
 #Textnow
 
-# 迅捷应用6合1 （by LTribe）
+#迅捷应用6合1 （by LTribe）
 
 #Productive Unlocks by Cuttlefish 公众号：墨鱼手记
 
@@ -111,9 +111,9 @@
 
 #picsart美易
 
-# bear熊掌记 @Miao Miao
+#bear熊掌记 @Miao Miao
 
-# noto笔记 @Alex0510
+#noto笔记 @Alex0510
 
 #扫描全能王CamScanner
 
