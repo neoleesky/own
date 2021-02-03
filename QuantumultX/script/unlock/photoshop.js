@@ -1,6 +1,7 @@
 /*
+#phothop & PSexpress
+越南老哥langkhach270389
 
-#phothop&PSexpress
 ^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/photoshop.js
 
 lcs-mobile-cops.adobe.io,
