@@ -1,6 +1,9 @@
 /*
 Unlocks by Cuttlefish 公众号：墨鱼手记
-# > 041 云听 解锁会员专属音频 舒舒服服躺着听（20201020）
+#云听 解锁会员专属音频 舒舒服服躺着听（20201020）
+
+下载地址 https://apps.apple.com/us/app/%E4%BA%91%E5%90%AC/id496145505
+
 http://getway.radio.cn/app* url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/yt.js
 
 getway.radio.cn, 
