@@ -7,7 +7,7 @@ TG频道:https://t.me/liangyiA
 
 [rewrite_local]
 #水印吧VIP  (by 凉意）
-^https:\/\/wx\.520gyh\.com\/Markingbar\/User\/vipInfo url script-response-body syb.js
+^https:\/\/wx\.520gyh\.com\/Markingbar\/User\/vipInfo url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/ShuiYinBa.js
 hostname = wx.520gyh.com
 */
 let obj = JSON.parse($response.body);
