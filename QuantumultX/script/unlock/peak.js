@@ -1,7 +1,8 @@
 /*
 //peak解锁pro
-
 by:chamberlen
+
+下载地址 https://apps.apple.com/us/app/peak-brain-training/id806223188
 
 [rewrite_local]
 
