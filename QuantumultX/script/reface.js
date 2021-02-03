@@ -1,6 +1,9 @@
 /*
 Unlocks by Cuttlefish 公众号：墨鱼手记
-# > 040 Reface 解锁会员权限 随心移花接木（20201013）
+#Reface 解锁会员权限 随心移花接木（20201013）
+
+下载地址 https://apps.apple.com/us/app/reface-face-swap-videos/id1488782587
+
 https://api.reface.video/api/reface/v1/iosSubscription url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/reface.js
 
 api.reface.video, 
