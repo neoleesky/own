@@ -1,6 +1,9 @@
 /*
 Unlocks by Cuttlefish 公众号：墨鱼手记
-# > 046 Fitplan 要不要做做Vip专属有氧运动 登录使用（20201107）
+#Fitplan 要不要做做Vip专属有氧运动 登录使用（20201107）
+
+下载地址 https://apps.apple.com/us/app/fitplan-gym-home-workout/id1064119547
+
 https://api2.fitplanapp.com/fitplan-server/v2/user/profile url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/fitplan.js
 
 api2.fitplanapp.com, 
