@@ -1,5 +1,9 @@
 /*
 #Musixmatch
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467
+
 ^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/musixmatch.miao.js
 
 apic.musixmatch.com
