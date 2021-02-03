@@ -1,5 +1,9 @@
 /*
-#Memrise学习外语（不包括英语）
+#Memrise学习外语
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/memrise-fun-language-learning/id635966718
+
 ^https:\/\/api\.memrise\.com\/.+\/(me\/$|dashboard\/$|leaderboards\/following\/) url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/memrise.vip.js
 
 api.meiease.c*, api.memrise.com, 
