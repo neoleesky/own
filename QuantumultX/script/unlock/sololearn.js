@@ -1,4 +1,9 @@
 /*
+#SoloLearn
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064
+
 QX: ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/sololearn.js
 
 Surge: http-response ^https:\/\/api\.sololearn\.com\/(authenticateDevice|challenge\/GetContestFeed|Profile\/GetProfile)$ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/langkhach270389/Scripting/master/sololearn.js
