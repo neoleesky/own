@@ -1,6 +1,6 @@
 /*
-Unlocks by cuttlefish 公众号：墨鱼手记
 #Quicut 体验大片视频编辑的感觉 (20201112)
+Unlocks by cuttlefish 公众号：墨鱼手记
 
 下载地址 https://apps.apple.com/us/app/quicut-video-editor-maker/id1504213638
 
