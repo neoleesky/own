@@ -1,6 +1,11 @@
 /*
 #kinemaster
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/kinemaster-video-editor/id1223932558 
+
 ^https:\/\/api-kinemaster-assetstore\.(nexstreaming|kinemasters)\.com\/.*\/product\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/kinemaster.js
+
 api-kinemaster-assetstore.*, 
 */
 var obj = JSON.parse($response.body);
