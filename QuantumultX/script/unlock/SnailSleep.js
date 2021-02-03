@@ -3,7 +3,7 @@
 
 下载地址 https://apps.apple.com/us/app/snail-sleep-dreamtalk-recorder/id1025313530
 
-^https:\/\/(snailsleep\.net\/|(music|community)\.snailsleep\.net\/)(snail\/v1\/profile\/get|snail-music\/music\/(sleeping|meditation)\/single\/list) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/wnsm.js
+^https:\/\/(snailsleep\.net\/|(music|community)\.snailsleep\.net\/)(snail\/v1\/profile\/get|snail-music\/music\/(sleeping|meditation)\/single\/list) url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/SnailSleep.js
 
 MITM = snailsleep.net,music.snailsleep.net,community.snailsleep.net
 */
