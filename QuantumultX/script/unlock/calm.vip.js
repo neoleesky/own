@@ -1,8 +1,13 @@
 /*
 #calm
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/calm/id571800810
+
 ^https:\/\/api\.calm\.com\/me$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/calm.vip.js
 #remove_manage
 ^https:\/\/www\.calm\.com\/mobile\/manage-subscription\?token=*  url reject-img
+
 api.calm.com, www.calm.com,
 */
 var obj = JSON.parse($response.body);
