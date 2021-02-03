@@ -3,66 +3,118 @@
 # 
 #
 #   to test
-#彩云小译   (by @superuv)
+#
 
-#智能证件照相机 (by @superuv)
+#Prisma解锁订阅@ioshkj007
 
-#猫咪翻译(by @superuv)
+#氢课付费内容
 
-#微商助手(by @superuv)
+#水印吧VIP  (by 凉意）
 
-#gk扫描仪(by @superuv)
+#海豚记账 (by @superuv)
 
-#人人视频 (by@george Jiang & R)
+#流利说.阅读 (by@火羽&@singee)
 
-#轻颜相机 & ulike & 蒸汽波相机(vaporcam)三合一 解锁VIP(By @s y & Alex0510)
+#Peak 解锁Pro
 
-#CPU Dasher破解(需要ios13 恢复购买后禁用掉 By @s y)
+#斑马海报（20210130）
 
-#酷我换肤(已经有的皮肤需要先从本地皮肤删除再换 By@ s y)
+#小习惯（20210106）
 
-#115离线 (请仔细阅读脚本内使用说明 By ikanam)
+#MeisterTask Premium(20200910)
 
-#lake
+#一言（20200916）Attention:登录使用
 
-#人人影视字幕组(商店版)去广告,保留轮播推荐影片(By @Kaya)
+#Fantastical（20200924）
 
-#每日英语阅读/每日外刊 解锁课程  (By chamberlen)
+#西窗烛（20200924）Attention：登录使用
 
-#哔咔漫画 屏蔽更新(By @FlintyLemming)
+#汉字的故事（20201002）
 
-#崩坏3 跨服 (By @FlintyLemming)
+#Reface（20201013）
 
-#第一弹 去广告+原画 (By Miao Miao)
+#云听（20201020）
 
-#Fantastical 内购解锁 (By @sunshy)
+#Fitplan（20201107）
 
-#SoloLearn Unlock PRO & Platinum Moderator (By @sunshy)
+#Document（20201108）
 
-#Pear 雪梨
+#Quicut(20201112)
 
-#克拉壁纸  解锁付费壁纸 (By @Dachaw)
+#豌豆清单(20201112)
 
-#洪恩双语绘本 (By 军哥哥)
+#彩云天气（20201121）Author: blackmatrix7 
 
-#中国体育直播unlock (By 军哥哥)
+#planner5d
 
-#有道云笔记VIP (ByAlex0510)
+#all apps monkey
 
-#IT之家 去新闻列表广告
+#dayone
 
-#万里影视 （by LTribe）
+#over
 
-#韩剧TV (By 凉意)
+#pushover
 
-#筋斗云tv (By 凉意)
+#kinemaster
 
-#花椒视频 (By Alex0510)
+#sololearn 
 
-#飒漫画 (By @u18888)
+#lingokids
 
-#闪电下载vip (By 凉意)
+# Pillow (By @CheeryTodo)
 
-#JAV101无限观看 (By 凉意)
+#mimo
 
-#油猴转换器 (by Peng-YM)
+#boom
+
+#calm
+
+#elevate
+
+#busuu
+
+#mondly
+
+#drops
+
+#sync(通讯录备份）
+
+# Jibjab(funny ecards,videos&gifs)
+
+#Memrise学习外语（不包括英语）
+
+#phothop&PSexpress
+
+#Bright学习英语
+
+#lightroom
+
+#draft
+
+#Musixmatch
+
+#Textnow
+
+# 迅捷应用6合1 （by LTribe）
+
+#Productive Unlocks by Cuttlefish 公众号：墨鱼手记
+
+#gyroscope记录健康数据全英文app
+
+#蜗牛睡眠 全功能解锁VIP&付费音乐
+
+#大象冥想 解锁VIP&付费音乐
+
+#VSCO
+
+#知音漫客
+
+#picsart美易
+
+# bear熊掌记 @Miao Miao
+
+# noto笔记 @Alex0510
+
+#扫描全能王CamScanner
+
+#网易蜗牛读书解锁会员
