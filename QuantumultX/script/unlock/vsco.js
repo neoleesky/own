@@ -1,5 +1,5 @@
 /*
-VSCO unlock vip
+#VSCO unlock vip
 NobyDa
 
 下载地址 https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838
