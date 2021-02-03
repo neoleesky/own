@@ -1,10 +1,12 @@
 /*
+#Prisma解锁订阅@ioshkj007
 微信公众号：ios黑科技
 官方网站：s7aa.cn
 
+下载地址 https://apps.apple.com/us/app/prisma-photo-editor/id1122649984
+
 QX:
 [rewrite_local]
-#Prisma解锁订阅@ioshkj007
 ^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/prisma\/.+ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/prisma.js
 
 [mitm]
