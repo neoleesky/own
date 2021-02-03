@@ -1,5 +1,7 @@
 /*
 # Pillow (By @CheeryTodo)
+下载地址 https://apps.apple.com/us/app/pillow-automatic-sleep-tracker/id878691772
+
 https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/pillow.js
 
 hostname= api.revenuecat.com
