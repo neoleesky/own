@@ -7,8 +7,7 @@
 
 QX:
 [rewrite_local]
-^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/prisma\/.+ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/prisma.js
-
+^https:\/\/appapi\.neuralprisma\.com\/receipt\/ios\/status\/prisma\/.+ url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/prisma.js
 [mitm]
 hostname = appapi.neuralprisma.com,
 
