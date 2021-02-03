@@ -7,8 +7,7 @@ by:chamberlen
 
 ^https:\/\/billing\.peakcloud\.org\/billing\/2\/user\/me? url script-response-body https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/peak.js
 
-//MITM=billing.peakcloud.org
-
+MITM=billing.peakcloud.org
 
 */
 let obj=JSON.parse($response.body);
