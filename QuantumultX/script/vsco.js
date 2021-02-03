@@ -1,5 +1,8 @@
 /*
 VSCO unlock vip
+NobyDa
+
+下载地址 https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838
 
 QX:
 ^https?:\/\/vsco\.co\/api\/subscriptions\/2.1\/user-subscriptions\/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js
