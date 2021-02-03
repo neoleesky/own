@@ -1,6 +1,11 @@
 /*
 #dayone
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/day-one-journal/id1044867788
+
 ^https:\/\/dayone\.me\/api\/(users|v2\/users\/account-status)$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/dayone.js
+
 dayone.me, 
 */
 if ($response.statusCode == 200) {
