@@ -5,10 +5,6 @@
 #   to test
 #彩云小译   (by @superuv)
 
-#Pocket list (by @superuv)
-
-#海豚记账 (by @superuv)
-
 #智能证件照相机 (by @superuv)
 
 #猫咪翻译(by @superuv)
@@ -17,11 +13,7 @@
 
 #gk扫描仪(by @superuv)
 
-#流利说.阅读 (by@火羽&@singee)
-
 #人人视频 (by@george Jiang & R)
-
-#abaenglish (未测试)
 
 #轻颜相机 & ulike & 蒸汽波相机(vaporcam)三合一 解锁VIP(By @s y & Alex0510)
 
@@ -56,8 +48,6 @@
 #中国体育直播unlock (By 军哥哥)
 
 #有道云笔记VIP (ByAlex0510)
-
-#Peak 解锁Pro
 
 #IT之家 去新闻列表广告
 
