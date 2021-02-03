@@ -1,6 +1,11 @@
 /*
 #mimo
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/mimo-learn-coding-programming/id1133960732
+
 ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/mimo.vip.js
+
 api.getmimo.com,
 */
 var obj = JSON.parse($response.body);
