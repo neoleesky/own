@@ -1,5 +1,9 @@
 /*
 #drafts
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/drafts/id1236254471
+
 ^https:\/\/backend\.getdrafts\.com\/api\/.*\/verification* url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/draft.js
 
 backend.getdrafts.com,
