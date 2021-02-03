@@ -1,5 +1,9 @@
 /*
 #lightroom
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/adobe-lightroom-for-ipad/id804177739
+
 ^https:\/\/photos\.adobe\.io\/v2\/accounts* url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/Lightroom.js
 
  photos.adobe.io,
