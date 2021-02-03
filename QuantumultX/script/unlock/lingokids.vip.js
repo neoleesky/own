@@ -1,3 +1,14 @@
+/*
+#lingokids
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/lingokids-playlearning/id1002043426
+
+^https:\/\/api\.lingokids\.com\/v1\/renovate_session$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/lingokids.vip.js
+
+api.lingokids.com
+*/
+
 var obj = JSON.parse($response.body);
 
 obj["info"]["subscriptions"]= [
