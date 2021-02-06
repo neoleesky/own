@@ -1,0 +1,13 @@
+/*
+# > 011 lensa 人像修图解锁（20200902）
+^https?:\/\/subscription-service\.neuralprisma\.com\/subscription_get url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/lensa.js
+
+subscription-service.neuralprisma.com, 
+*/
+
+
+var obj = JSON.parse($response.body); 
+obj['is_valid'] = true;
+obj['is_trial'] = true;
+obj['expiration_date'] = '2970-01-01T00:00:00Z';
+$done({body: JSON.stringify(obj)});

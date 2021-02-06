@@ -1,5 +1,9 @@
 /*
 PicsArt app unlocks pro
+NobyDa
+
+下载地址 https://apps.apple.com/us/app/picsart-photo-video-editor/id587366035
+
 Surge4.0:
 http-response https:\/\/api\.(picsart|meiease)\.c(n|om)\/users\/show\/me\.json requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/PicsArt.js
 

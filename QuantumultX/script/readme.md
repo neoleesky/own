@@ -1,27 +1,120 @@
 # 重新整理中
 # js文件备份在unlock内
 # 
+#   由于本人常用美区商店，目前仅整理了美区商店中有的app
+#   已整理app
 #
-#   to test
-# > 035 色采 Unlock VIP (20200929) Attention：恢复购买
-# > 034 英语阅读 解锁永久会员 （20200926）Attention：登录使用 ⭐️
-# > 028 done 解锁会员功能 PRO （20200914）Attention：登录使用
-# > 026 VCUS Unlock VIP (20200912)
-# > 025 手机硬件管家 高级VIP (20200912)
-# > 024 MeisterTask Premium(20200910)
-# > 023 实时天气 解锁VIP功能（20200909）-----失效已加密
-# > 022 乐心健康 步数修改 （20200908）Attention：APP里面数据共享，打开微信和支付宝，需要修改步数的时候，打开乐心健康
-# > 019 葫芦时刻 解锁SVIP（20200905）
-# > 017 菜谱大全 解锁VIP功能（20200906）
-# > 014 滴答清单 解锁会员功能（20200903）仅适用旧版 V5.2.51 ID:832943581
-# > 013 克拉壁纸 解锁付费壁纸（20200903）仅适用旧版 V4.7.3 ID:833188498 ⭐️
-# > 012 剪影 解锁订阅（20200902）
-# > 011 lensa 人像修图解锁（20200902）
-# > 010 财新 解锁付费文章（20200901）
-# > 009 moo 日记永久会员 (20200831) ⭐️
-# > 007 RCam 解锁会员功能（20201108）已注释，需要的自行添加
-# > 006 酸鸡汤,老爷花苑（光头的小程序，两个通用）（20200916）
-# > 005 黑科技软件（20200901）小程序解除隐藏内容  
-# > 004 天泽后花园（20200901）小程序解除隐藏内容
-# > 003 小野分享（20200901）小程序解除隐藏内容
-# > 002 搜罗好货（20200901）小程序解除隐藏内容
+
+#Prisma解锁订阅@ioshkj007
+
+#氢课付费内容
+
+#水印吧VIP  (by 凉意）
+
+#海豚记账 (by @superuv)
+
+#流利说.阅读 (by@火羽&@singee)
+
+#Peak 解锁Pro
+
+#斑马海报（20210130）
+
+#小习惯（20210106）
+
+#MeisterTask Premium(20200910)
+
+#一言（20200916）Attention:登录使用
+
+#Fantastical（20200924）
+
+#西窗烛（20200924）Attention：登录使用
+
+#汉字的故事（20201002）
+
+#Reface（20201013）
+
+#云听（20201020）
+
+#Fitplan（20201107）
+
+#Document（20201108）
+
+#Quicut(20201112)
+
+#豌豆清单(20201112)
+
+#彩云天气（20201121）Author: blackmatrix7 
+
+#planner5d
+
+#all apps monkey
+
+#dayone
+
+#over
+
+#pushover
+
+#kinemaster
+
+#sololearn 
+
+#lingokids
+
+#Pillow (By @CheeryTodo)
+
+#mimo
+
+#boom
+
+#calm
+
+#elevate
+
+#busuu
+
+#mondly
+
+#drops
+
+#sync(通讯录备份）
+
+#Jibjab(funny ecards,videos&gifs)
+
+#Memrise学习外语（不包括英语）
+
+#phothop&PSexpress
+
+#Bright学习英语
+
+#lightroom
+
+#draft
+
+#Musixmatch
+
+#Textnow
+
+#迅捷应用6合1 （by LTribe）
+
+#Productive Unlocks by Cuttlefish 公众号：墨鱼手记
+
+#gyroscope记录健康数据全英文app
+
+#蜗牛睡眠 全功能解锁VIP&付费音乐
+
+#大象冥想 解锁VIP&付费音乐
+
+#VSCO
+
+#知音漫客
+
+#picsart美易
+
+#bear熊掌记 @Miao Miao
+
+#noto笔记 @Alex0510
+
+#扫描全能王CamScanner
+
+#网易蜗牛读书解锁会员

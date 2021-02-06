@@ -1,6 +1,12 @@
 /*
 #gyroscope记录健康数据全英文app
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/gyroscope/id1104085053
+
+QX:
 ^https:\/\/api\.gyrosco\.pe\/v1\/account\/$ url script-response-body https://raw.githubusercontent.com/langkhach270389/Scripting/master/Gyroscope.vip.js
+
 hostname = api.gyrosco.pe
 
 */

@@ -1,5 +1,8 @@
 /*
 CamScanner unlocks pro, Cloud scanning is not available.
+NobyDa
+
+下载地址 https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783
 
 QuanX 1.0.0:  [rewrite_local]
 ^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js

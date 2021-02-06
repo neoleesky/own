@@ -1,7 +1,12 @@
 /*
 #Bright
+越南老哥langkhach270389
+
+下载地址 https://apps.apple.com/us/app/bright-learn-english-fast/id1258621855
+
 ^https:\/\/engbright\.com\/app-portal\/apple\/receipt$ url 302 https://raw.githubusercontent.com/langkhach270389/Scripting/master/Bright.rsp
-engbright.com, 
+
+hostname= engbright.com, 
 
 */
 {"status":0, "environment":"Production", 
